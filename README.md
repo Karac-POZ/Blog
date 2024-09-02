@@ -34,4 +34,4 @@ Blog is a personal blog built with love and enthusiasm.
 
 Inspired by the great works of others, I've built this blog with love and appreciation for the open-source community.
 
-[![GitHub stars](https://img.shields.io/github/stars/Karac-POZ/Blog.svg?style=social&label=Stars)](https://github.com/Karac-POZ/Blog) [![Twitter Follow](https://img.shields.io/twitter/follow/Karac_POZ.svg?style=social&label=@Karac_POZ)](https://twitter.com/Karac_POZ)
+[![GitHub stars](https://img.shields.io/github/stars/Karac-POZ/Blog.svg?style=social&label=Stars)](https://github.com/Karac-POZ/Blog)
